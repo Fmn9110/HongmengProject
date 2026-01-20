@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>挂断电话图标</title>
+    <g id="call-end" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,9 C10.4,9 8.85,9.25 7.4,9.72 L4.93,7.25 C7.68,5.91 9.75,5 12,5 C14.25,5 16.32,5.91 19.07,7.25 L16.6,9.72 C15.15,9.25 13.6,9 12,9 Z M12,14 C10.35,14 8.75,13.85 7.2,13.55 L4.5,16.25 C6.69,17.41 9.1,18 12,18 C14.9,18 17.31,17.41 19.5,16.25 L16.8,13.55 C15.25,13.85 13.65,14 12,14 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg> 

@@ -1,0 +1,30 @@
+{
+  "src": [
+    "pages/mine/Mine",
+    "pages/Login",
+    "pages/aiconsultation/AIConsultation",
+    "pages/devicepage/DevicePage",
+    "pages/index/Index",
+    "pages/childpages/heartratepage/HeartRatePage",
+    "pages/childpages/sleeptimepage/SleepTimePage",
+    "pages/childpages/bloodoxygenpage/BloodOxygenPage",
+    "pages/childpages/bloodpressurepage/BloodPressurePage",
+    "pages/childpages/bloodsugarpage/BloodSugarPage",
+    "pages/childpages/weightpage/WeightPage",
+    "pages/healthpage/HealthMonitorPage",
+    "pages/foodmanagementpage/FoodManagementPage",
+    "pages/showhistory/showHistory",
+    "pages/checkInpage/CheckInPage",
+    "pages/childpages/medicalhistorypage/MedicalHistoryPage",
+    "pages/childpages/dietpage/AiDietRecommendationPage",
+    "pages/childpages/exercisepage/ExerciseRecommendationPage",
+    "pages/emergency/EmergencyCallPage",
+    "pages/healthanalysis/HealthAnalysisPage",
+    "pages/childpages/settingspage/SettingsPage",
+    "pages/childpages/deviceauthpage/DeviceAuthPage",
+    "pages/childpages/syspermissionpage/SysPermissionPage",
+    "pages/childpages/helpfeedbackpage/HelpFeedbackPage",
+    "pages/childpages/devicesharepage/DeviceSharePage",
+    "pages/childpages/aboutpage/AboutPage"
+  ]
+}

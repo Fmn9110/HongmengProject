@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "慢宁康"
+    },
+    {
+      "name": "net_permission_reason",
+      "value": "APP需要联网"
+    },
+    {
+      "name": "camera_permission_reason",
+      "value": "需要相机权限进行照片上传"
+    },
+    {
+      "name": "read_media_permission_reason",
+      "value": "需要访问相册进行图片上传"
+    },
+    {
+      "name": "write_media_permission_reason",
+      "value": "需要拍照进行照片上传"
+    },
+    {
+      "name": "net_info_permission_reason",
+      "value": "需要解析网络状态"
+    },
+    {
+      "name": "voice_reason",
+      "value": "用于获取用户的录音"
+    },
+    {
+      "name": "reason_internet",
+      "value": ""
+    },
+    {
+      "name": "reason_bluetooth",
+      "value": ""
+    },
+      {
+        "name": "notification_permission_reason",
+        "value": "用于发送健康数据异常通知"
+      },
+      {
+        "name": "bundle_info_reason",
+        "value": "用于获取应用包信息以发送通知"
+      },
+      {
+        "name": "vibrate_permission_reason",
+        "value": "用于在健康数据异常时提醒用户"
+      },
+      {
+        "name": "call_permission_reason",
+        "value": "用于紧急情况下快速拨打急救电话"
+      }
+  ]
+}
